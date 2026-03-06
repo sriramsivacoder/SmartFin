@@ -1,0 +1,73 @@
+date,description,amount,category
+2024-01-03,Supermarket groceries,165.20,food
+2024-01-05,Petrol refill,72.00,transport
+2024-01-08,Electricity bill,910.00,utilities
+2024-01-12,Cafe breakfast,85.00,food
+2024-01-15,Netflix subscription,199.00,entertainment
+2024-01-18,Pharmacy purchase,120.00,health
+2024-02-02,Grocery shopping,180.50,food
+2024-02-04,Metro ticket,30.00,transport
+2024-02-08,Amazon electronics order,799.00,shopping
+2024-02-11,Restaurant dinner,240.00,food
+2024-02-15,Internet bill,999.00,utilities
+2024-02-19,Medical test,260.00,health
+2024-03-01,Supermarket groceries,155.00,food
+2024-03-04,Ola cab ride,140.00,transport
+2024-03-08,Electricity bill,930.00,utilities
+2024-03-12,Coffee shop latte,60.00,food
+2024-03-16,Movie tickets,250.00,entertainment
+2024-03-20,Pharmacy medicine purchase,145.00,health
+2024-04-03,Grocery basket,175.00,food
+2024-04-05,Taxi ride,150.00,transport
+2024-04-09,Amazon home supplies,450.00,shopping
+2024-04-12,Restaurant lunch,260.00,food
+2024-04-17,Water bill,35.00,utilities
+2024-04-22,Medical consultation,300.00,health
+2024-05-02,Vegetable market purchase,120.00,food
+2024-05-06,Petrol refill,85.00,transport
+2024-05-10,Electricity bill,980.00,utilities
+2024-05-13,Online clothing purchase,1100.00,shopping
+2024-05-18,Movie theatre ticket,270.00,entertainment
+2024-05-21,Pharmacy items,135.00,health
+2024-06-03,Groceries shopping,190.00,food
+2024-06-07,Auto ride,55.00,transport
+2024-06-11,Amazon gadget purchase,899.00,shopping
+2024-06-15,Cafe sandwich,95.00,food
+2024-06-20,Internet bill,999.00,utilities
+2024-06-25,Doctor visit,320.00,health
+2024-07-02,Supermarket groceries,200.00,food
+2024-07-06,Metro ticket,30.00,transport
+2024-07-09,Electricity bill,1010.00,utilities
+2024-07-13,Online shoes purchase,1299.00,shopping
+2024-07-18,Movie tickets,260.00,entertainment
+2024-07-22,Pharmacy purchase,150.00,health
+2024-08-03,Vegetables purchase,140.00,food
+2024-08-05,Ola ride,150.00,transport
+2024-08-09,Amazon household items,520.00,shopping
+2024-08-12,Restaurant dinner,300.00,food
+2024-08-17,Electricity bill,1005.00,utilities
+2024-08-23,Medical consultation,350.00,health
+2024-09-01,Grocery shopping,210.00,food
+2024-09-04,Taxi ride,165.00,transport
+2024-09-07,Online clothing purchase,950.00,shopping
+2024-09-10,Cafe snack,90.00,food
+2024-09-15,Internet bill,999.00,utilities
+2024-09-20,Pharmacy items,155.00,health
+2024-10-02,Supermarket groceries,220.00,food
+2024-10-05,Metro ticket,35.00,transport
+2024-10-09,Electricity bill,1080.00,utilities
+2024-10-13,Amazon festive purchase,1400.00,shopping
+2024-10-17,Movie tickets,280.00,entertainment
+2024-10-22,Medical test,360.00,health
+2024-11-03,Vegetables market purchase,180.00,food
+2024-11-07,Petrol refill,110.00,transport
+2024-11-10,Online electronics purchase,1200.00,shopping
+2024-11-14,Restaurant dinner,320.00,food
+2024-11-19,Electricity bill,1120.00,utilities
+2024-11-23,Pharmacy purchase,165.00,health
+2024-12-02,Grocery shopping,230.00,food
+2024-12-05,Taxi ride,200.00,transport
+2024-12-08,Christmas decor purchase,780.00,shopping
+2024-12-12,Cafe breakfast,110.00,food
+2024-12-16,Internet bill,999.00,utilities
+2024-12-20,Medical checkup,420.00,health

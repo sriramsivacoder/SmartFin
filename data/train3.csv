@@ -1,0 +1,32 @@
+date,description,amount,category
+2023-01-01,Grocery shopping at Walmart,85.50,food
+2023-01-02,Gas station fill up,40.00,transport
+2023-01-03,Dinner at Italian restaurant,70.00,food
+2023-01-04,Online Amazon purchase,95.00,shopping
+2023-01-05,Coffee shop latte,6.00,food
+2023-01-06,Bus ticket,3.00,transport
+2023-01-07,Supermarket groceries,82.00,food
+2023-01-08,Electricity bill,90.00,utilities
+2023-01-09,Netflix subscription,15.99,entertainment
+2023-01-10,Pharmacy prescription,25.00,health
+2023-01-11,Gas for car,42.00,transport
+2023-01-12,Lunch at cafe,14.00,food
+2023-01-13,Clothing store purchase,70.00,shopping
+2023-01-14,Water bill,30.00,utilities
+2023-01-15,Movie tickets,25.00,entertainment
+2023-01-16,Grocery delivery,55.00,food
+2023-01-17,Taxi ride,20.00,transport
+2023-01-18,Bookstore purchase,24.00,shopping
+2023-01-19,Gym membership,50.00,health
+2023-01-20,Dinner out,60.00,food
+2023-01-21,Car maintenance,90.00,transport
+2023-01-22,Home supplies,40.00,shopping
+2023-01-23,Cable TV bill,55.00,entertainment
+2023-01-24,Pharmacy items,20.00,health
+2023-01-25,Grocery store purchase,85.00,food
+2023-01-26,Gas station,38.00,transport
+2023-01-27,Restaurant meal,65.00,food
+2023-01-28,Online electronics,95.00,shopping
+2023-01-29,Coffee and pastry,9.00,food
+2023-01-30,Train ticket,22.00,transport
+2023-01-31,Mobile recharge,45.00,utilities

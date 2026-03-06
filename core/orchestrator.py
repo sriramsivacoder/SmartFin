@@ -1,6 +1,8 @@
 from core.preprocessor import Preprocessor
 from agents.spending_agent import SpendingAnalyzerAgent
 from agents.budget_agent import BudgetOptimizationAgent
+from agents.risk_alert_agent import RiskAlertAgent
+from agents.investment_advisor_agent import InvestmentAdvisorAgent
 
 class Orchestrator:
 
@@ -8,6 +10,8 @@ class Orchestrator:
         self.preprocessor = Preprocessor()
         self.spending_agent = SpendingAnalyzerAgent()
         self.budget_agent = BudgetOptimizationAgent()
+        self.risk_agent = RiskAlertAgent()
+        self.investment_agent = InvestmentAdvisorAgent()
 
     def run_full_pipeline(self, csv_path):
         df = self.preprocessor.load_csv(csv_path)

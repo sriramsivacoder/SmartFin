@@ -1,0 +1,1001 @@
+date,description,amount,category
+2025-01-01,Petrol refill,154.01,transport
+2025-01-01,Electricity bill,888.19,utilities
+2025-01-01,Milk and bread,205.16,food
+2025-01-01,Petrol refill,121.64,transport
+2025-01-02,Local food store,216.22,food
+2025-01-02,Local food store,203.66,food
+2025-01-02,Milk and bread,221.4,food
+2025-01-02,Milk and bread,227.53,food
+2025-01-03,Bus pass,125.99,transport
+2025-01-03,Electricity bill,900.1,utilities
+2025-01-03,Grocery shopping,229.37,food
+2025-01-03,Grocery shopping,219.61,food
+2025-01-04,Grocery shopping,237.19,food
+2025-01-04,Metro ticket,112.76,transport
+2025-01-04,Vegetables market,208.55,food
+2025-01-04,Grocery shopping,234.23,food
+2025-01-05,Grocery shopping,242.15,food
+2025-01-05,Petrol refill,116.69,transport
+2025-01-05,Mobile recharge,868.73,utilities
+2025-01-05,Water bill,904.08,utilities
+2025-01-05,Local food store,229.93,food
+2025-01-05,Metro ticket,133.92,transport
+2025-01-05,Mobile recharge,925.1,utilities
+2025-01-05,Bus pass,128.48,transport
+2025-01-06,Water bill,894.65,utilities
+2025-01-06,Metro ticket,128.89,transport
+2025-01-06,Auto fare,99.13,transport
+2025-01-06,Auto fare,128.44,transport
+2025-01-07,Vegetables market,210.77,food
+2025-01-07,Vegetables market,201.99,food
+2025-01-07,Petrol refill,91.12,transport
+2025-01-07,Water bill,875.22,utilities
+2025-01-07,Local food store,227.44,food
+2025-01-08,Milk and bread,199.2,food
+2025-01-08,Electricity bill,890.83,utilities
+2025-01-08,Mobile recharge,916.21,utilities
+2025-01-08,Petrol refill,104.34,transport
+2025-01-08,Petrol refill,117.52,transport
+2025-01-09,Metro ticket,129.86,transport
+2025-01-09,Internet bill,874.86,utilities
+2025-01-09,Vegetables market,208.38,food
+2025-01-09,Auto fare,129.2,transport
+2025-01-09,Metro ticket,150.2,transport
+2025-01-09,Metro ticket,114.03,transport
+2025-01-09,Water bill,915.58,utilities
+2025-01-10,Mobile recharge,908.26,utilities
+2025-01-10,Water bill,905.43,utilities
+2025-01-10,Auto fare,104.98,transport
+2025-01-10,Petrol refill,88.1,transport
+2025-01-10,Local food store,259.94,food
+2025-01-10,Water bill,904.38,utilities
+2025-01-11,Auto fare,102.45,transport
+2025-01-12,Internet bill,899.63,utilities
+2025-01-12,Vegetables market,205.46,food
+2025-01-12,Electricity bill,936.32,utilities
+2025-01-12,Grocery shopping,223.88,food
+2025-01-12,Milk and bread,215.89,food
+2025-01-12,Electricity bill,903.82,utilities
+2025-01-12,Grocery shopping,152.23,food
+2025-01-12,Water bill,863.33,utilities
+2025-01-13,Grocery shopping,199.7,food
+2025-01-13,Local food store,205.22,food
+2025-01-13,Electricity bill,895.96,utilities
+2025-01-13,Metro ticket,116.79,transport
+2025-01-13,Milk and bread,228.21,food
+2025-01-13,Metro ticket,150.79,transport
+2025-01-13,Vegetables market,203.9,food
+2025-01-13,Metro ticket,107.97,transport
+2025-01-13,Grocery shopping,237.71,food
+2025-01-13,Petrol refill,147.17,transport
+2025-01-14,Milk and bread,223.01,food
+2025-01-14,Vegetables market,189.54,food
+2025-01-14,Metro ticket,155.79,transport
+2025-01-14,Metro ticket,116.97,transport
+2025-01-14,Milk and bread,209.67,food
+2025-01-14,Internet bill,894.95,utilities
+2025-01-14,Auto fare,119.25,transport
+2025-01-14,Bus pass,140.99,transport
+2025-01-14,Internet bill,916.54,utilities
+2025-01-15,Grocery shopping,182.49,food
+2025-01-15,Auto fare,112.38,transport
+2025-01-15,Electricity bill,884.0,utilities
+2025-01-15,Vegetables market,171.3,food
+2025-01-15,Internet bill,896.34,utilities
+2025-01-15,Vegetables market,208.67,food
+2025-01-15,Grocery shopping,232.95,food
+2025-01-15,Mobile recharge,896.88,utilities
+2025-01-16,Bus pass,158.45,transport
+2025-01-16,Auto fare,130.2,transport
+2025-01-16,Mobile recharge,888.05,utilities
+2025-01-16,Mobile recharge,874.54,utilities
+2025-01-17,Metro ticket,127.94,transport
+2025-01-17,Petrol refill,146.15,transport
+2025-01-17,Electricity bill,895.05,utilities
+2025-01-17,Internet bill,925.25,utilities
+2025-01-17,Metro ticket,139.83,transport
+2025-01-17,Metro ticket,98.23,transport
+2025-01-18,Local food store,234.2,food
+2025-01-18,Petrol refill,136.23,transport
+2025-01-19,Vegetables market,219.62,food
+2025-01-19,Metro ticket,106.74,transport
+2025-01-19,Metro ticket,119.89,transport
+2025-01-19,Local food store,228.71,food
+2025-01-19,Grocery shopping,194.44,food
+2025-01-20,Vegetables market,238.33,food
+2025-01-20,Mobile recharge,886.73,utilities
+2025-01-20,Vegetables market,223.54,food
+2025-01-20,Milk and bread,234.25,food
+2025-01-20,Grocery shopping,241.09,food
+2025-01-21,Vegetables market,222.15,food
+2025-01-21,Mobile recharge,915.68,utilities
+2025-01-21,Electricity bill,883.92,utilities
+2025-01-21,Internet bill,892.4,utilities
+2025-01-21,Local food store,183.06,food
+2025-01-21,Milk and bread,220.12,food
+2025-01-21,Milk and bread,212.9,food
+2025-01-21,Local food store,249.25,food
+2025-01-21,Internet bill,901.01,utilities
+2025-01-22,Electricity bill,934.6,utilities
+2025-01-22,Internet bill,904.61,utilities
+2025-01-23,Milk and bread,210.43,food
+2025-01-23,Local food store,237.15,food
+2025-01-23,Bus pass,89.41,transport
+2025-01-24,Auto fare,110.96,transport
+2025-01-24,Water bill,907.04,utilities
+2025-01-24,Local food store,209.56,food
+2025-01-24,Petrol refill,141.38,transport
+2025-01-24,Vegetables market,227.12,food
+2025-01-24,Local food store,191.01,food
+2025-01-25,Milk and bread,223.87,food
+2025-01-25,Mobile recharge,912.47,utilities
+2025-01-25,Internet bill,892.98,utilities
+2025-01-25,Auto fare,135.34,transport
+2025-01-25,Water bill,918.64,utilities
+2025-01-25,Metro ticket,144.16,transport
+2025-01-25,Metro ticket,117.54,transport
+2025-01-26,Auto fare,107.76,transport
+2025-01-26,Auto fare,129.26,transport
+2025-01-26,Auto fare,157.11,transport
+2025-01-27,Metro ticket,144.36,transport
+2025-01-27,Auto fare,143.8,transport
+2025-01-27,Metro ticket,121.41,transport
+2025-01-27,Mobile recharge,906.82,utilities
+2025-01-28,Bus pass,143.95,transport
+2025-01-28,Grocery shopping,226.38,food
+2025-01-28,Vegetables market,223.98,food
+2025-01-28,Grocery shopping,246.0,food
+2025-01-28,Internet bill,887.38,utilities
+2025-01-29,Vegetables market,173.57,food
+2025-01-29,Electricity bill,895.25,utilities
+2025-01-29,Electricity bill,918.08,utilities
+2025-01-29,Mobile recharge,887.0,utilities
+2025-01-30,Vegetables market,229.25,food
+2025-01-31,Water bill,909.61,utilities
+2025-01-31,Electricity bill,886.48,utilities
+2025-02-01,Water bill,911.23,utilities
+2025-02-01,Milk and bread,222.67,food
+2025-02-02,Mobile recharge,924.5,utilities
+2025-02-02,Local food store,262.66,food
+2025-02-03,Local food store,206.75,food
+2025-02-03,Vegetables market,267.63,food
+2025-02-03,Mobile recharge,888.12,utilities
+2025-02-03,Mobile recharge,881.03,utilities
+2025-02-04,Grocery shopping,252.84,food
+2025-02-04,Auto fare,109.24,transport
+2025-02-04,Milk and bread,234.65,food
+2025-02-04,Grocery shopping,214.27,food
+2025-02-04,Internet bill,887.92,utilities
+2025-02-04,Auto fare,90.05,transport
+2025-02-04,Vegetables market,208.41,food
+2025-02-04,Electricity bill,904.79,utilities
+2025-02-05,Metro ticket,117.42,transport
+2025-02-05,Internet bill,885.63,utilities
+2025-02-05,Metro ticket,136.4,transport
+2025-02-05,Internet bill,906.04,utilities
+2025-02-05,Vegetables market,252.57,food
+2025-02-06,Local food store,244.49,food
+2025-02-06,Petrol refill,135.31,transport
+2025-02-06,Water bill,915.29,utilities
+2025-02-06,Electricity bill,892.9,utilities
+2025-02-06,Local food store,217.06,food
+2025-02-06,Petrol refill,122.87,transport
+2025-02-06,Vegetables market,217.76,food
+2025-02-06,Milk and bread,211.07,food
+2025-02-06,Internet bill,895.14,utilities
+2025-02-07,Bus pass,144.65,transport
+2025-02-07,Auto fare,142.89,transport
+2025-02-07,Mobile recharge,888.12,utilities
+2025-02-07,Water bill,936.82,utilities
+2025-02-07,Auto fare,152.16,transport
+2025-02-07,Vegetables market,223.77,food
+2025-02-07,Milk and bread,239.26,food
+2025-02-08,Auto fare,148.1,transport
+2025-02-08,Mobile recharge,876.27,utilities
+2025-02-08,Vegetables market,201.91,food
+2025-02-09,Vegetables market,192.74,food
+2025-02-09,Bus pass,160.11,transport
+2025-02-09,Water bill,928.41,utilities
+2025-02-09,Internet bill,917.64,utilities
+2025-02-09,Milk and bread,215.55,food
+2025-02-09,Vegetables market,187.21,food
+2025-02-10,Mobile recharge,898.72,utilities
+2025-02-10,Auto fare,167.47,transport
+2025-02-10,Water bill,926.07,utilities
+2025-02-10,Auto fare,128.2,transport
+2025-02-11,Milk and bread,237.47,food
+2025-02-11,Water bill,928.52,utilities
+2025-02-11,Internet bill,940.4,utilities
+2025-02-12,Water bill,905.62,utilities
+2025-02-13,Grocery shopping,248.21,food
+2025-02-13,Petrol refill,118.53,transport
+2025-02-14,Vegetables market,207.5,food
+2025-02-14,Mobile recharge,938.87,utilities
+2025-02-14,Local food store,210.75,food
+2025-02-14,Petrol refill,135.16,transport
+2025-02-14,Milk and bread,258.02,food
+2025-02-14,Metro ticket,123.65,transport
+2025-02-14,Water bill,916.47,utilities
+2025-02-15,Grocery shopping,190.15,food
+2025-02-15,Electricity bill,890.95,utilities
+2025-02-15,Auto fare,141.77,transport
+2025-02-16,Mobile recharge,913.83,utilities
+2025-02-16,Mobile recharge,899.4,utilities
+2025-02-16,Milk and bread,214.5,food
+2025-02-16,Auto fare,167.08,transport
+2025-02-16,Grocery shopping,199.52,food
+2025-02-16,Auto fare,170.07,transport
+2025-02-16,Milk and bread,229.24,food
+2025-02-16,Petrol refill,133.29,transport
+2025-02-16,Vegetables market,212.56,food
+2025-02-16,Milk and bread,210.53,food
+2025-02-17,Bus pass,111.49,transport
+2025-02-17,Grocery shopping,274.4,food
+2025-02-17,Milk and bread,230.93,food
+2025-02-17,Milk and bread,218.43,food
+2025-02-17,Mobile recharge,897.75,utilities
+2025-02-17,Vegetables market,240.45,food
+2025-02-17,Milk and bread,223.61,food
+2025-02-18,Grocery shopping,217.11,food
+2025-02-18,Grocery shopping,250.77,food
+2025-02-18,Mobile recharge,887.91,utilities
+2025-02-18,Grocery shopping,232.06,food
+2025-02-18,Milk and bread,184.33,food
+2025-02-18,Local food store,221.64,food
+2025-02-18,Milk and bread,198.67,food
+2025-02-18,Grocery shopping,216.12,food
+2025-02-18,Local food store,207.48,food
+2025-02-18,Milk and bread,251.25,food
+2025-02-18,Grocery shopping,235.2,food
+2025-02-19,Local food store,207.96,food
+2025-02-20,Milk and bread,183.92,food
+2025-02-20,Grocery shopping,232.13,food
+2025-02-20,Milk and bread,222.94,food
+2025-02-20,Metro ticket,128.03,transport
+2025-02-20,Metro ticket,125.26,transport
+2025-02-20,Milk and bread,225.62,food
+2025-02-20,Electricity bill,917.07,utilities
+2025-02-20,Grocery shopping,215.31,food
+2025-02-20,Grocery shopping,248.64,food
+2025-02-20,Grocery shopping,233.45,food
+2025-02-21,Local food store,213.01,food
+2025-02-22,Grocery shopping,183.18,food
+2025-02-22,Milk and bread,249.62,food
+2025-02-22,Electricity bill,904.22,utilities
+2025-02-22,Vegetables market,234.82,food
+2025-02-22,Metro ticket,134.73,transport
+2025-02-22,Metro ticket,156.81,transport
+2025-02-22,Milk and bread,198.93,food
+2025-02-23,Grocery shopping,218.17,food
+2025-02-23,Bus pass,132.4,transport
+2025-02-23,Mobile recharge,905.78,utilities
+2025-02-23,Grocery shopping,189.49,food
+2025-02-23,Grocery shopping,225.61,food
+2025-02-23,Petrol refill,124.54,transport
+2025-02-24,Grocery shopping,219.39,food
+2025-02-24,Auto fare,126.72,transport
+2025-02-25,Metro ticket,124.53,transport
+2025-02-25,Water bill,865.39,utilities
+2025-02-26,Electricity bill,899.45,utilities
+2025-02-26,Vegetables market,269.11,food
+2025-02-26,Electricity bill,874.4,utilities
+2025-02-26,Water bill,875.3,utilities
+2025-02-26,Metro ticket,127.53,transport
+2025-02-26,Grocery shopping,240.57,food
+2025-02-26,Internet bill,898.84,utilities
+2025-02-26,Water bill,888.73,utilities
+2025-02-27,Local food store,250.26,food
+2025-02-28,Bus pass,138.11,transport
+2025-02-28,Local food store,240.35,food
+2025-02-28,Bus pass,157.39,transport
+2025-02-28,Local food store,224.3,food
+2025-02-28,Local food store,201.83,food
+2025-02-28,Electricity bill,927.22,utilities
+2025-02-28,Internet bill,877.28,utilities
+2025-02-28,Vegetables market,211.86,food
+2025-02-28,Internet bill,902.28,utilities
+2025-03-01,Vegetables market,217.16,food
+2025-03-01,Metro ticket,114.82,transport
+2025-03-02,Grocery shopping,223.89,food
+2025-03-02,Electricity bill,894.27,utilities
+2025-03-02,Mobile recharge,871.86,utilities
+2025-03-02,Grocery shopping,212.98,food
+2025-03-02,Petrol refill,120.54,transport
+2025-03-02,Local food store,231.09,food
+2025-03-03,Grocery shopping,180.81,food
+2025-03-03,Auto fare,103.25,transport
+2025-03-03,Local food store,238.69,food
+2025-03-03,Metro ticket,136.21,transport
+2025-03-03,Grocery shopping,272.42,food
+2025-03-03,Mobile recharge,877.55,utilities
+2025-03-03,Milk and bread,235.95,food
+2025-03-03,Internet bill,896.56,utilities
+2025-03-03,Grocery shopping,230.1,food
+2025-03-03,Metro ticket,133.55,transport
+2025-03-03,Milk and bread,196.21,food
+2025-03-03,Grocery shopping,265.98,food
+2025-03-03,Bus pass,89.55,transport
+2025-03-03,Electricity bill,901.68,utilities
+2025-03-04,Grocery shopping,201.86,food
+2025-03-04,Petrol refill,117.39,transport
+2025-03-04,Water bill,904.38,utilities
+2025-03-04,Metro ticket,128.72,transport
+2025-03-04,Petrol refill,146.04,transport
+2025-03-04,Milk and bread,175.39,food
+2025-03-04,Bus pass,86.88,transport
+2025-03-04,Grocery shopping,208.77,food
+2025-03-04,Vegetables market,243.07,food
+2025-03-05,Petrol refill,138.06,transport
+2025-03-05,Internet bill,888.39,utilities
+2025-03-06,Mobile recharge,860.96,utilities
+2025-03-06,Bus pass,107.59,transport
+2025-03-06,Internet bill,900.56,utilities
+2025-03-06,Petrol refill,148.75,transport
+2025-03-06,Milk and bread,221.21,food
+2025-03-06,Internet bill,867.55,utilities
+2025-03-06,Metro ticket,123.43,transport
+2025-03-07,Milk and bread,209.55,food
+2025-03-07,Petrol refill,153.93,transport
+2025-03-08,Petrol refill,142.3,transport
+2025-03-08,Mobile recharge,887.29,utilities
+2025-03-08,Milk and bread,222.86,food
+2025-03-08,Metro ticket,112.6,transport
+2025-03-09,Milk and bread,244.46,food
+2025-03-09,Auto fare,108.64,transport
+2025-03-09,Internet bill,879.48,utilities
+2025-03-09,Mobile recharge,882.7,utilities
+2025-03-09,Internet bill,924.1,utilities
+2025-03-09,Bus pass,131.39,transport
+2025-03-09,Vegetables market,233.34,food
+2025-03-10,Mobile recharge,873.46,utilities
+2025-03-10,Auto fare,151.77,transport
+2025-03-10,Internet bill,902.82,utilities
+2025-03-10,Water bill,864.9,utilities
+2025-03-10,Water bill,881.62,utilities
+2025-03-10,Local food store,190.27,food
+2025-03-10,Petrol refill,131.77,transport
+2025-03-10,Milk and bread,230.49,food
+2025-03-11,Petrol refill,143.31,transport
+2025-03-11,Electricity bill,912.81,utilities
+2025-03-11,Auto fare,145.96,transport
+2025-03-11,Internet bill,915.79,utilities
+2025-03-11,Milk and bread,197.38,food
+2025-03-11,Internet bill,917.46,utilities
+2025-03-11,Vegetables market,222.82,food
+2025-03-11,Auto fare,107.03,transport
+2025-03-12,Electricity bill,917.7,utilities
+2025-03-12,Electricity bill,904.75,utilities
+2025-03-12,Electricity bill,896.71,utilities
+2025-03-13,Bus pass,117.55,transport
+2025-03-13,Auto fare,142.36,transport
+2025-03-13,Mobile recharge,907.65,utilities
+2025-03-13,Milk and bread,226.82,food
+2025-03-13,Electricity bill,882.07,utilities
+2025-03-13,Vegetables market,170.01,food
+2025-03-14,Mobile recharge,905.96,utilities
+2025-03-14,Grocery shopping,238.84,food
+2025-03-14,Petrol refill,102.31,transport
+2025-03-14,Bus pass,116.68,transport
+2025-03-14,Grocery shopping,252.28,food
+2025-03-14,Petrol refill,147.75,transport
+2025-03-15,Metro ticket,117.95,transport
+2025-03-16,Milk and bread,250.46,food
+2025-03-16,Electricity bill,896.45,utilities
+2025-03-16,Vegetables market,218.69,food
+2025-03-16,Internet bill,908.96,utilities
+2025-03-16,Grocery shopping,189.24,food
+2025-03-16,Grocery shopping,212.67,food
+2025-03-16,Metro ticket,95.67,transport
+2025-03-16,Vegetables market,215.42,food
+2025-03-17,Milk and bread,226.88,food
+2025-03-17,Vegetables market,263.42,food
+2025-03-17,Vegetables market,218.62,food
+2025-03-17,Grocery shopping,243.43,food
+2025-03-17,Petrol refill,163.51,transport
+2025-03-17,Electricity bill,895.5,utilities
+2025-03-17,Milk and bread,205.02,food
+2025-03-18,Petrol refill,147.85,transport
+2025-03-18,Mobile recharge,905.64,utilities
+2025-03-18,Grocery shopping,220.75,food
+2025-03-18,Electricity bill,906.58,utilities
+2025-03-18,Bus pass,110.35,transport
+2025-03-19,Water bill,908.24,utilities
+2025-03-19,Mobile recharge,855.84,utilities
+2025-03-19,Petrol refill,83.96,transport
+2025-03-19,Milk and bread,212.45,food
+2025-03-19,Mobile recharge,869.64,utilities
+2025-03-19,Metro ticket,162.47,transport
+2025-03-20,Bus pass,120.92,transport
+2025-03-20,Auto fare,148.81,transport
+2025-03-20,Mobile recharge,899.19,utilities
+2025-03-20,Mobile recharge,888.65,utilities
+2025-03-21,Water bill,880.93,utilities
+2025-03-21,Mobile recharge,909.25,utilities
+2025-03-21,Petrol refill,141.56,transport
+2025-03-22,Grocery shopping,205.59,food
+2025-03-22,Water bill,906.34,utilities
+2025-03-22,Petrol refill,127.52,transport
+2025-03-22,Grocery shopping,186.53,food
+2025-03-22,Internet bill,898.07,utilities
+2025-03-22,Vegetables market,215.43,food
+2025-03-22,Local food store,239.92,food
+2025-03-22,Auto fare,143.11,transport
+2025-03-23,Mobile recharge,942.21,utilities
+2025-03-23,Petrol refill,105.78,transport
+2025-03-23,Vegetables market,253.69,food
+2025-03-23,Mobile recharge,911.3,utilities
+2025-03-23,Auto fare,122.56,transport
+2025-03-23,Local food store,230.7,food
+2025-03-23,Internet bill,926.71,utilities
+2025-03-23,Mobile recharge,913.88,utilities
+2025-03-23,Local food store,219.2,food
+2025-03-23,Electricity bill,946.81,utilities
+2025-03-24,Auto fare,99.54,transport
+2025-03-24,Auto fare,103.09,transport
+2025-03-24,Electricity bill,902.88,utilities
+2025-03-24,Metro ticket,151.21,transport
+2025-03-24,Mobile recharge,893.61,utilities
+2025-03-25,Vegetables market,196.89,food
+2025-03-25,Vegetables market,241.16,food
+2025-03-25,Petrol refill,159.68,transport
+2025-03-25,Milk and bread,246.63,food
+2025-03-26,Grocery shopping,270.79,food
+2025-03-26,Local food store,257.44,food
+2025-03-26,Milk and bread,239.99,food
+2025-03-26,Auto fare,151.82,transport
+2025-03-26,Vegetables market,199.4,food
+2025-03-27,Grocery shopping,273.99,food
+2025-03-27,Local food store,251.98,food
+2025-03-27,Milk and bread,209.16,food
+2025-03-27,Electricity bill,935.17,utilities
+2025-03-27,Metro ticket,128.96,transport
+2025-03-27,Bus pass,84.92,transport
+2025-03-27,Milk and bread,204.54,food
+2025-03-28,Grocery shopping,176.76,food
+2025-03-28,Vegetables market,220.31,food
+2025-03-28,Bus pass,164.44,transport
+2025-03-28,Auto fare,178.8,transport
+2025-03-28,Local food store,215.51,food
+2025-03-29,Auto fare,136.26,transport
+2025-03-29,Local food store,225.11,food
+2025-03-29,Grocery shopping,207.03,food
+2025-03-30,Milk and bread,237.07,food
+2025-03-30,Milk and bread,203.73,food
+2025-03-30,Milk and bread,238.96,food
+2025-03-31,Internet bill,894.74,utilities
+2025-03-31,Vegetables market,210.28,food
+2025-03-31,Milk and bread,212.5,food
+2025-03-31,Metro ticket,117.8,transport
+2025-03-31,Bus pass,113.7,transport
+2025-03-31,Grocery shopping,235.62,food
+2025-04-01,Water bill,896.48,utilities
+2025-04-01,Petrol refill,135.02,transport
+2025-04-02,Petrol refill,133.02,transport
+2025-04-02,Milk and bread,234.48,food
+2025-04-02,Grocery shopping,210.49,food
+2025-04-02,Milk and bread,251.36,food
+2025-04-02,Petrol refill,124.57,transport
+2025-04-02,Internet bill,901.29,utilities
+2025-04-02,Grocery shopping,210.15,food
+2025-04-03,Internet bill,920.15,utilities
+2025-04-03,Local food store,207.55,food
+2025-04-03,Local food store,217.8,food
+2025-04-03,Water bill,900.07,utilities
+2025-04-04,Grocery shopping,182.67,food
+2025-04-04,Metro ticket,137.98,transport
+2025-04-05,Milk and bread,212.3,food
+2025-04-05,Auto fare,107.51,transport
+2025-04-05,Auto fare,128.66,transport
+2025-04-05,Internet bill,894.4,utilities
+2025-04-06,Bus pass,141.22,transport
+2025-04-06,Petrol refill,149.57,transport
+2025-04-06,Vegetables market,255.31,food
+2025-04-06,Petrol refill,161.6,transport
+2025-04-06,Milk and bread,191.62,food
+2025-04-06,Auto fare,140.94,transport
+2025-04-07,Water bill,894.71,utilities
+2025-04-07,Local food store,232.76,food
+2025-04-07,Petrol refill,137.27,transport
+2025-04-07,Local food store,223.21,food
+2025-04-07,Bus pass,144.47,transport
+2025-04-07,Vegetables market,213.27,food
+2025-04-07,Local food store,202.47,food
+2025-04-08,Bus pass,97.41,transport
+2025-04-08,Bus pass,122.5,transport
+2025-04-08,Milk and bread,180.98,food
+2025-04-08,Auto fare,111.42,transport
+2025-04-08,Vegetables market,194.67,food
+2025-04-08,Electricity bill,855.09,utilities
+2025-04-08,Petrol refill,130.93,transport
+2025-04-08,Water bill,916.05,utilities
+2025-04-08,Bus pass,133.05,transport
+2025-04-09,Milk and bread,197.45,food
+2025-04-09,Bus pass,148.52,transport
+2025-04-09,Auto fare,105.4,transport
+2025-04-09,Electricity bill,895.58,utilities
+2025-04-09,Electricity bill,890.47,utilities
+2025-04-10,Bus pass,137.85,transport
+2025-04-10,Grocery shopping,255.45,food
+2025-04-10,Bus pass,119.35,transport
+2025-04-11,Local food store,201.45,food
+2025-04-11,Bus pass,162.65,transport
+2025-04-11,Milk and bread,267.8,food
+2025-04-11,Auto fare,119.39,transport
+2025-04-11,Bus pass,145.86,transport
+2025-04-11,Milk and bread,251.21,food
+2025-04-12,Mobile recharge,907.81,utilities
+2025-04-12,Petrol refill,110.11,transport
+2025-04-12,Grocery shopping,209.74,food
+2025-04-12,Internet bill,943.8,utilities
+2025-04-12,Local food store,214.74,food
+2025-04-12,Mobile recharge,917.38,utilities
+2025-04-13,Water bill,901.92,utilities
+2025-04-13,Grocery shopping,215.31,food
+2025-04-13,Electricity bill,934.75,utilities
+2025-04-13,Vegetables market,223.91,food
+2025-04-13,Grocery shopping,222.57,food
+2025-04-14,Auto fare,146.46,transport
+2025-04-14,Grocery shopping,268.92,food
+2025-04-14,Milk and bread,210.01,food
+2025-04-14,Local food store,204.93,food
+2025-04-14,Mobile recharge,886.47,utilities
+2025-04-14,Local food store,194.61,food
+2025-04-14,Grocery shopping,221.97,food
+2025-04-14,Mobile recharge,909.72,utilities
+2025-04-14,Vegetables market,220.42,food
+2025-04-14,Local food store,217.93,food
+2025-04-15,Electricity bill,920.52,utilities
+2025-04-15,Local food store,244.7,food
+2025-04-15,Water bill,876.04,utilities
+2025-04-15,Petrol refill,142.66,transport
+2025-04-16,Metro ticket,113.37,transport
+2025-04-16,Electricity bill,936.09,utilities
+2025-04-16,Metro ticket,118.45,transport
+2025-04-16,Milk and bread,185.93,food
+2025-04-16,Bus pass,121.52,transport
+2025-04-16,Bus pass,142.13,transport
+2025-04-16,Milk and bread,210.4,food
+2025-04-16,Vegetables market,205.91,food
+2025-04-17,Local food store,209.01,food
+2025-04-17,Local food store,234.28,food
+2025-04-17,Metro ticket,159.92,transport
+2025-04-17,Vegetables market,222.03,food
+2025-04-17,Water bill,936.8,utilities
+2025-04-18,Petrol refill,152.8,transport
+2025-04-18,Petrol refill,126.18,transport
+2025-04-18,Local food store,200.92,food
+2025-04-18,Milk and bread,202.54,food
+2025-04-18,Local food store,220.57,food
+2025-04-18,Water bill,915.18,utilities
+2025-04-18,Local food store,227.65,food
+2025-04-18,Milk and bread,215.51,food
+2025-04-18,Mobile recharge,921.93,utilities
+2025-04-18,Milk and bread,195.36,food
+2025-04-19,Petrol refill,124.6,transport
+2025-04-19,Electricity bill,886.15,utilities
+2025-04-19,Local food store,194.77,food
+2025-04-19,Milk and bread,233.8,food
+2025-04-19,Petrol refill,181.47,transport
+2025-04-19,Mobile recharge,906.49,utilities
+2025-04-19,Petrol refill,125.82,transport
+2025-04-19,Bus pass,144.69,transport
+2025-04-19,Petrol refill,106.63,transport
+2025-04-19,Auto fare,123.84,transport
+2025-04-19,Water bill,883.77,utilities
+2025-04-19,Mobile recharge,893.81,utilities
+2025-04-20,Vegetables market,248.3,food
+2025-04-20,Local food store,205.71,food
+2025-04-20,Grocery shopping,247.12,food
+2025-04-21,Petrol refill,140.4,transport
+2025-04-21,Mobile recharge,930.02,utilities
+2025-04-21,Metro ticket,152.47,transport
+2025-04-22,Milk and bread,215.23,food
+2025-04-22,Auto fare,108.69,transport
+2025-04-22,Grocery shopping,210.71,food
+2025-04-22,Internet bill,905.86,utilities
+2025-04-23,Vegetables market,222.9,food
+2025-04-23,Local food store,234.96,food
+2025-04-23,Mobile recharge,902.13,utilities
+2025-04-23,Auto fare,144.66,transport
+2025-04-23,Grocery shopping,233.64,food
+2025-04-24,Milk and bread,196.87,food
+2025-04-24,Metro ticket,125.57,transport
+2025-04-24,Grocery shopping,198.22,food
+2025-04-24,Grocery shopping,150.38,food
+2025-04-24,Milk and bread,220.55,food
+2025-04-24,Mobile recharge,897.65,utilities
+2025-04-24,Metro ticket,143.95,transport
+2025-04-25,Milk and bread,203.79,food
+2025-04-25,Petrol refill,112.24,transport
+2025-04-25,Vegetables market,211.78,food
+2025-04-25,Local food store,239.17,food
+2025-04-26,Metro ticket,129.61,transport
+2025-04-26,Mobile recharge,880.72,utilities
+2025-04-26,Grocery shopping,253.28,food
+2025-04-26,Local food store,217.39,food
+2025-04-27,Metro ticket,161.37,transport
+2025-04-27,Auto fare,124.39,transport
+2025-04-27,Milk and bread,272.12,food
+2025-04-27,Milk and bread,190.65,food
+2025-04-27,Vegetables market,191.38,food
+2025-04-27,Mobile recharge,876.14,utilities
+2025-04-28,Auto fare,135.07,transport
+2025-04-28,Electricity bill,925.72,utilities
+2025-04-28,Petrol refill,166.23,transport
+2025-04-28,Vegetables market,270.92,food
+2025-04-28,Vegetables market,243.9,food
+2025-04-28,Milk and bread,201.84,food
+2025-04-28,Electricity bill,885.43,utilities
+2025-04-28,Local food store,236.87,food
+2025-04-28,Grocery shopping,225.69,food
+2025-04-29,Vegetables market,205.93,food
+2025-04-29,Auto fare,144.31,transport
+2025-04-29,Local food store,213.0,food
+2025-04-29,Mobile recharge,916.2,utilities
+2025-04-30,Milk and bread,203.15,food
+2025-04-30,Internet bill,866.13,utilities
+2025-04-30,Water bill,916.16,utilities
+2025-04-30,Local food store,237.69,food
+2025-04-30,Vegetables market,193.73,food
+2025-04-30,Milk and bread,202.11,food
+2025-05-01,Milk and bread,214.88,food
+2025-05-01,Electricity bill,892.77,utilities
+2025-05-01,Vegetables market,230.46,food
+2025-05-01,Mobile recharge,892.74,utilities
+2025-05-01,Metro ticket,116.02,transport
+2025-05-01,Metro ticket,130.38,transport
+2025-05-02,Grocery shopping,205.09,food
+2025-05-02,Auto fare,96.02,transport
+2025-05-02,Vegetables market,237.32,food
+2025-05-02,Bus pass,141.04,transport
+2025-05-02,Local food store,244.98,food
+2025-05-03,Petrol refill,153.05,transport
+2025-05-03,Petrol refill,91.2,transport
+2025-05-04,Vegetables market,201.59,food
+2025-05-04,Internet bill,921.42,utilities
+2025-05-04,Mobile recharge,900.06,utilities
+2025-05-04,Bus pass,119.28,transport
+2025-05-04,Mobile recharge,896.25,utilities
+2025-05-04,Auto fare,134.6,transport
+2025-05-05,Auto fare,102.85,transport
+2025-05-05,Grocery shopping,223.53,food
+2025-05-05,Petrol refill,133.0,transport
+2025-05-06,Metro ticket,115.81,transport
+2025-05-06,Local food store,254.27,food
+2025-05-06,Local food store,243.01,food
+2025-05-06,Petrol refill,112.69,transport
+2025-05-06,Bus pass,103.91,transport
+2025-05-06,Milk and bread,189.21,food
+2025-05-06,Grocery shopping,246.21,food
+2025-05-06,Local food store,215.77,food
+2025-05-06,Local food store,219.45,food
+2025-05-06,Local food store,199.95,food
+2025-05-06,Metro ticket,118.73,transport
+2025-05-07,Petrol refill,133.95,transport
+2025-05-07,Vegetables market,219.44,food
+2025-05-07,Mobile recharge,926.35,utilities
+2025-05-07,Water bill,899.27,utilities
+2025-05-08,Mobile recharge,919.68,utilities
+2025-05-08,Internet bill,894.6,utilities
+2025-05-08,Electricity bill,858.53,utilities
+2025-05-08,Local food store,237.34,food
+2025-05-09,Auto fare,153.38,transport
+2025-05-09,Milk and bread,226.85,food
+2025-05-09,Bus pass,138.1,transport
+2025-05-09,Metro ticket,156.14,transport
+2025-05-10,Vegetables market,211.16,food
+2025-05-10,Local food store,259.68,food
+2025-05-10,Water bill,892.09,utilities
+2025-05-10,Milk and bread,200.67,food
+2025-05-10,Mobile recharge,895.35,utilities
+2025-05-10,Auto fare,104.41,transport
+2025-05-10,Milk and bread,213.41,food
+2025-05-11,Milk and bread,218.33,food
+2025-05-11,Mobile recharge,905.01,utilities
+2025-05-11,Local food store,183.39,food
+2025-05-11,Electricity bill,908.34,utilities
+2025-05-11,Bus pass,131.4,transport
+2025-05-11,Mobile recharge,892.57,utilities
+2025-05-12,Metro ticket,146.65,transport
+2025-05-12,Electricity bill,931.27,utilities
+2025-05-12,Grocery shopping,229.93,food
+2025-05-12,Local food store,226.07,food
+2025-05-13,Electricity bill,905.08,utilities
+2025-05-13,Local food store,229.33,food
+2025-05-13,Local food store,220.91,food
+2025-05-13,Petrol refill,152.37,transport
+2025-05-14,Local food store,180.49,food
+2025-05-14,Milk and bread,236.23,food
+2025-05-14,Grocery shopping,190.35,food
+2025-05-14,Petrol refill,122.86,transport
+2025-05-14,Water bill,879.87,utilities
+2025-05-14,Petrol refill,154.29,transport
+2025-05-14,Milk and bread,239.41,food
+2025-05-15,Milk and bread,200.57,food
+2025-05-15,Water bill,928.75,utilities
+2025-05-16,Vegetables market,227.45,food
+2025-05-16,Metro ticket,149.02,transport
+2025-05-16,Mobile recharge,894.99,utilities
+2025-05-16,Mobile recharge,912.73,utilities
+2025-05-16,Internet bill,894.49,utilities
+2025-05-16,Vegetables market,241.69,food
+2025-05-16,Bus pass,118.99,transport
+2025-05-17,Bus pass,98.28,transport
+2025-05-17,Grocery shopping,232.32,food
+2025-05-17,Internet bill,893.6,utilities
+2025-05-17,Grocery shopping,224.77,food
+2025-05-17,Grocery shopping,202.43,food
+2025-05-17,Bus pass,131.03,transport
+2025-05-17,Electricity bill,892.22,utilities
+2025-05-17,Local food store,216.04,food
+2025-05-17,Bus pass,135.37,transport
+2025-05-18,Grocery shopping,222.82,food
+2025-05-18,Milk and bread,177.34,food
+2025-05-18,Electricity bill,879.07,utilities
+2025-05-18,Milk and bread,214.59,food
+2025-05-19,Electricity bill,910.45,utilities
+2025-05-19,Grocery shopping,254.51,food
+2025-05-19,Auto fare,127.75,transport
+2025-05-19,Milk and bread,192.66,food
+2025-05-19,Local food store,216.52,food
+2025-05-19,Internet bill,910.43,utilities
+2025-05-19,Electricity bill,913.73,utilities
+2025-05-19,Auto fare,169.26,transport
+2025-05-20,Local food store,243.23,food
+2025-05-20,Local food store,199.79,food
+2025-05-20,Internet bill,948.3,utilities
+2025-05-20,Petrol refill,81.5,transport
+2025-05-20,Internet bill,892.29,utilities
+2025-05-20,Electricity bill,925.36,utilities
+2025-05-20,Metro ticket,93.64,transport
+2025-05-21,Bus pass,140.99,transport
+2025-05-21,Grocery shopping,251.46,food
+2025-05-21,Grocery shopping,204.92,food
+2025-05-22,Water bill,896.95,utilities
+2025-05-22,Auto fare,99.91,transport
+2025-05-22,Petrol refill,197.45,transport
+2025-05-22,Bus pass,143.13,transport
+2025-05-22,Grocery shopping,223.37,food
+2025-05-23,Petrol refill,108.47,transport
+2025-05-23,Milk and bread,204.54,food
+2025-05-23,Metro ticket,108.75,transport
+2025-05-23,Internet bill,889.31,utilities
+2025-05-23,Mobile recharge,921.6,utilities
+2025-05-23,Internet bill,906.46,utilities
+2025-05-23,Metro ticket,133.79,transport
+2025-05-24,Milk and bread,219.56,food
+2025-05-24,Bus pass,127.64,transport
+2025-05-24,Vegetables market,205.74,food
+2025-05-24,Metro ticket,165.4,transport
+2025-05-24,Auto fare,130.15,transport
+2025-05-24,Petrol refill,145.24,transport
+2025-05-24,Local food store,224.55,food
+2025-05-24,Internet bill,906.72,utilities
+2025-05-25,Bus pass,125.22,transport
+2025-05-25,Bus pass,139.38,transport
+2025-05-25,Internet bill,873.67,utilities
+2025-05-25,Metro ticket,121.33,transport
+2025-05-25,Internet bill,853.29,utilities
+2025-05-25,Water bill,932.53,utilities
+2025-05-26,Grocery shopping,235.59,food
+2025-05-26,Electricity bill,907.22,utilities
+2025-05-26,Local food store,218.73,food
+2025-05-26,Bus pass,123.94,transport
+2025-05-26,Milk and bread,238.76,food
+2025-05-26,Bus pass,134.37,transport
+2025-05-26,Grocery shopping,210.62,food
+2025-05-27,Vegetables market,243.26,food
+2025-05-27,Local food store,228.63,food
+2025-05-27,Grocery shopping,184.63,food
+2025-05-27,Water bill,880.07,utilities
+2025-05-27,Grocery shopping,218.32,food
+2025-05-27,Petrol refill,115.59,transport
+2025-05-27,Water bill,890.32,utilities
+2025-05-27,Petrol refill,117.49,transport
+2025-05-27,Milk and bread,229.47,food
+2025-05-27,Bus pass,157.35,transport
+2025-05-27,Mobile recharge,921.39,utilities
+2025-05-28,Electricity bill,884.02,utilities
+2025-05-28,Electricity bill,919.17,utilities
+2025-05-28,Vegetables market,253.47,food
+2025-05-28,Grocery shopping,234.62,food
+2025-05-28,Grocery shopping,218.57,food
+2025-05-28,Grocery shopping,184.43,food
+2025-05-28,Milk and bread,197.57,food
+2025-05-29,Water bill,890.66,utilities
+2025-05-29,Internet bill,894.46,utilities
+2025-05-29,Milk and bread,198.01,food
+2025-05-29,Petrol refill,131.75,transport
+2025-05-29,Mobile recharge,885.3,utilities
+2025-05-29,Petrol refill,129.38,transport
+2025-05-29,Auto fare,139.35,transport
+2025-05-29,Vegetables market,253.66,food
+2025-05-29,Internet bill,888.25,utilities
+2025-05-29,Mobile recharge,876.8,utilities
+2025-05-30,Petrol refill,141.95,transport
+2025-05-30,Petrol refill,151.35,transport
+2025-05-30,Water bill,922.41,utilities
+2025-05-30,Internet bill,910.64,utilities
+2025-05-30,Metro ticket,140.12,transport
+2025-05-30,Auto fare,145.79,transport
+2025-05-31,Mobile recharge,914.93,utilities
+2025-05-31,Grocery shopping,262.86,food
+2025-05-31,Metro ticket,134.81,transport
+2025-05-31,Grocery shopping,205.84,food
+2025-05-31,Grocery shopping,233.39,food
+2025-05-31,Water bill,908.98,utilities
+2025-05-31,Metro ticket,150.85,transport
+2025-05-31,Mobile recharge,909.89,utilities
+2025-05-31,Bus pass,128.52,transport
+2025-06-01,Electricity bill,926.16,utilities
+2025-06-01,Internet bill,918.41,utilities
+2025-06-01,Bus pass,124.09,transport
+2025-06-01,Local food store,208.7,food
+2025-06-01,Bus pass,105.41,transport
+2025-06-01,Electricity bill,887.92,utilities
+2025-06-02,Vegetables market,265.82,food
+2025-06-02,Bus pass,132.91,transport
+2025-06-02,Bus pass,113.93,transport
+2025-06-02,Local food store,202.67,food
+2025-06-02,Local food store,223.84,food
+2025-06-03,Vegetables market,230.27,food
+2025-06-03,Bus pass,87.61,transport
+2025-06-03,Internet bill,891.64,utilities
+2025-06-03,Milk and bread,219.73,food
+2025-06-03,Vegetables market,219.67,food
+2025-06-03,Bus pass,141.53,transport
+2025-06-03,Metro ticket,115.57,transport
+2025-06-03,Water bill,875.0,utilities
+2025-06-04,Grocery shopping,228.08,food
+2025-06-04,Petrol refill,117.02,transport
+2025-06-04,Internet bill,903.01,utilities
+2025-06-04,Electricity bill,890.25,utilities
+2025-06-04,Vegetables market,228.36,food
+2025-06-05,Grocery shopping,232.57,food
+2025-06-05,Auto fare,144.68,transport
+2025-06-05,Metro ticket,123.09,transport
+2025-06-06,Bus pass,77.29,transport
+2025-06-06,Milk and bread,223.6,food
+2025-06-06,Electricity bill,880.42,utilities
+2025-06-06,Local food store,248.41,food
+2025-06-06,Bus pass,126.61,transport
+2025-06-07,Local food store,224.36,food
+2025-06-07,Local food store,201.42,food
+2025-06-07,Metro ticket,128.46,transport
+2025-06-07,Local food store,218.02,food
+2025-06-07,Mobile recharge,921.64,utilities
+2025-06-07,Water bill,897.86,utilities
+2025-06-07,Local food store,247.84,food
+2025-06-08,Grocery shopping,207.97,food
+2025-06-08,Vegetables market,193.76,food
+2025-06-08,Electricity bill,916.97,utilities
+2025-06-09,Mobile recharge,944.71,utilities
+2025-06-09,Bus pass,121.07,transport
+2025-06-09,Water bill,904.94,utilities
+2025-06-09,Water bill,924.13,utilities
+2025-06-09,Electricity bill,880.12,utilities
+2025-06-09,Mobile recharge,907.44,utilities
+2025-06-09,Vegetables market,219.72,food
+2025-06-10,Grocery shopping,260.57,food
+2025-06-10,Local food store,240.84,food
+2025-06-10,Grocery shopping,211.46,food
+2025-06-10,Milk and bread,220.22,food
+2025-06-10,Local food store,176.96,food
+2025-06-10,Bus pass,164.55,transport
+2025-06-10,Milk and bread,235.54,food
+2025-06-10,Grocery shopping,235.38,food
+2025-06-11,Local food store,194.83,food
+2025-06-11,Milk and bread,228.34,food
+2025-06-11,Bus pass,137.3,transport
+2025-06-11,Local food store,209.52,food
+2025-06-11,Local food store,243.89,food
+2025-06-11,Water bill,899.43,utilities
+2025-06-11,Local food store,252.12,food
+2025-06-11,Vegetables market,245.51,food
+2025-06-11,Local food store,200.1,food
+2025-06-11,Internet bill,904.17,utilities
+2025-06-12,Local food store,229.52,food
+2025-06-12,Metro ticket,137.01,transport
+2025-06-12,Metro ticket,106.17,transport
+2025-06-13,Grocery shopping,208.37,food
+2025-06-13,Grocery shopping,231.32,food
+2025-06-13,Bus pass,125.53,transport
+2025-06-13,Local food store,203.83,food
+2025-06-13,Electricity bill,922.07,utilities
+2025-06-13,Local food store,168.92,food
+2025-06-13,Milk and bread,233.33,food
+2025-06-13,Mobile recharge,898.22,utilities
+2025-06-13,Electricity bill,895.47,utilities
+2025-06-13,Water bill,914.45,utilities
+2025-06-13,Mobile recharge,917.85,utilities
+2025-06-14,Bus pass,137.11,transport
+2025-06-14,Mobile recharge,913.93,utilities
+2025-06-14,Local food store,213.84,food
+2025-06-14,Milk and bread,201.93,food
+2025-06-14,Milk and bread,193.91,food
+2025-06-14,Metro ticket,103.34,transport
+2025-06-14,Bus pass,117.11,transport
+2025-06-14,Local food store,234.14,food
+2025-06-15,Bus pass,113.74,transport
+2025-06-15,Grocery shopping,247.18,food
+2025-06-15,Electricity bill,898.06,utilities
+2025-06-16,Water bill,895.73,utilities
+2025-06-16,Auto fare,99.35,transport
+2025-06-17,Metro ticket,92.4,transport
+2025-06-17,Grocery shopping,212.34,food
+2025-06-17,Bus pass,130.14,transport
+2025-06-17,Vegetables market,168.83,food
+2025-06-17,Local food store,205.62,food
+2025-06-17,Metro ticket,125.26,transport
+2025-06-17,Grocery shopping,237.66,food
+2025-06-17,Local food store,245.81,food
+2025-06-17,Auto fare,109.31,transport
+2025-06-17,Milk and bread,207.08,food
+2025-06-18,Vegetables market,227.42,food
+2025-06-18,Milk and bread,252.78,food
+2025-06-18,Auto fare,139.6,transport
+2025-06-19,Milk and bread,203.39,food
+2025-06-19,Petrol refill,124.98,transport
+2025-06-19,Milk and bread,211.25,food
+2025-06-20,Local food store,222.58,food
+2025-06-20,Water bill,915.78,utilities
+2025-06-20,Petrol refill,162.46,transport
+2025-06-20,Petrol refill,136.93,transport
+2025-06-20,Grocery shopping,216.18,food
+2025-06-20,Grocery shopping,245.12,food
+2025-06-20,Petrol refill,129.38,transport
+2025-06-21,Petrol refill,97.14,transport
+2025-06-21,Milk and bread,225.51,food
+2025-06-21,Grocery shopping,170.37,food
+2025-06-21,Metro ticket,157.77,transport
+2025-06-21,Bus pass,169.3,transport
+2025-06-22,Metro ticket,115.68,transport
+2025-06-22,Local food store,237.39,food
+2025-06-22,Internet bill,910.46,utilities
+2025-06-23,Electricity bill,863.29,utilities
+2025-06-23,Vegetables market,239.24,food
+2025-06-23,Vegetables market,234.62,food
+2025-06-23,Auto fare,131.85,transport
+2025-06-23,Water bill,880.03,utilities
+2025-06-24,Vegetables market,242.44,food
+2025-06-24,Local food store,241.15,food
+2025-06-24,Metro ticket,125.25,transport
+2025-06-24,Auto fare,107.98,transport
+2025-06-25,Internet bill,896.01,utilities
+2025-06-25,Milk and bread,215.16,food
+2025-06-25,Water bill,910.82,utilities
+2025-06-25,Petrol refill,126.08,transport
+2025-06-25,Internet bill,896.92,utilities
+2025-06-25,Grocery shopping,221.66,food
+2025-06-25,Mobile recharge,881.91,utilities
+2025-06-26,Mobile recharge,912.07,utilities
+2025-06-26,Water bill,907.74,utilities
+2025-06-26,Milk and bread,211.77,food
+2025-06-26,Bus pass,134.79,transport
+2025-06-26,Petrol refill,140.16,transport
+2025-06-26,Local food store,229.89,food
+2025-06-26,Water bill,876.6,utilities
+2025-06-27,Metro ticket,122.89,transport
+2025-06-27,Metro ticket,114.86,transport
+2025-06-27,Internet bill,902.5,utilities
+2025-06-27,Internet bill,907.42,utilities
+2025-06-28,Petrol refill,134.67,transport
+2025-06-28,Bus pass,103.06,transport
+2025-06-28,Grocery shopping,218.39,food
+2025-06-28,Local food store,256.87,food
+2025-06-28,Internet bill,888.75,utilities
+2025-06-28,Bus pass,133.96,transport
+2025-06-28,Vegetables market,213.15,food
+2025-06-28,Metro ticket,146.64,transport
+2025-06-28,Metro ticket,141.33,transport
+2025-06-28,Metro ticket,81.61,transport
+2025-06-29,Bus pass,123.86,transport
+2025-06-29,Grocery shopping,226.0,food
+2025-06-29,Metro ticket,101.4,transport
+2025-06-30,Grocery shopping,238.07,food
+2025-06-30,Petrol refill,168.23,transport
+2025-06-30,Electricity bill,920.66,utilities
+2025-06-30,Metro ticket,135.6,transport
+2025-06-30,Electricity bill,914.3,utilities
+2025-06-30,Mobile recharge,908.45,utilities
